@@ -6,6 +6,7 @@ folder dist
 
 @http
 get /api
+get /test
 
 @tables
 data
